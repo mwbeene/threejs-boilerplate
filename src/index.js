@@ -4,6 +4,7 @@ import * as THREE from 'three';
 const scene = new THREE.Scene();
 
 console.log( scene );
+console.log( 'test' );
 
 function component() {
     const element = document.createElement('div');
